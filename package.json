@@ -1,5 +1,6 @@
 {
   "homepage": "https://FinlayShaw02.github.io/portfolio-site",
+
   "name": "portfolio-site",
   "version": "1.0.0",
   "private": true,
@@ -19,8 +20,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

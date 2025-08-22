@@ -56,7 +56,6 @@ export default function App() {
     { icon: "📧", label: "Email", href: "mailto:shawjonfin1@gmail.com" },
     { icon: "💻", label: "GitHub", href: "https://github.com/FinlayShaw02" },
     { icon: "🔗", label: "LinkedIn", href: "https://www.linkedin.com/in/finlay-s-25227a232/" },
-    { icon: "📄", label: "Resume", href: "/resume.pdf" }, // ensure this file exists in /public
   ]), []);
 
   const skills = useMemo(() => ([

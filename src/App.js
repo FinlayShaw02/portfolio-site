@@ -142,7 +142,9 @@ export default function App() {
               <section className="mt-8">
                 <h2 className="text-yellow-500 dark:text-yellow-400">// About Me</h2>
                 <p className={`mt-2 ${isDark ? "text-gray-300" : "text-gray-700"}`}>
-                  I'm a passionate software developer with a love for building intuitive and efficient digital solutions…
+                  I'm a passionate software developer with a love for building intuitive and efficient digital solutions.
+                  With experience in both frontend and backend technologies, I enjoy solving real-world problems through code
+                  and continuously exploring new tools and techniques to improve my craft.
                 </p>
               </section>
 

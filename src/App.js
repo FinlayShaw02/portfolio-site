@@ -195,14 +195,7 @@ export default function App() {
                         <span className="font-semibold">"{proj.title}"</span>
                       </p>
                       <p className="mt-2">{proj.description}</p>
-                      <a
-                        href={proj.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-blue-500 underline mt-2 inline-block hover:opacity-80 transition"
-                      >
-                        View Project
-                      </a>
+
                     </article>
                   ))}
                 </div>
